@@ -1,5 +1,5 @@
 # SNAPR - Snap, Narrate, Auto Post and Reflect
-![SNAPR](/static/snaprWhiteBackSmall.png)
+![SNAPR](/static/snaprWhiteBackSmallNew.png)
 
 December 04, 2019 
 ### Tufts Center for Engineering Education and Outreach
