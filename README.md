@@ -8,5 +8,4 @@ Tufts Center for Engineering Education and Outreach
 
 Keywords
 
-Canvas, Flask
-Hardware - Raspberry Pi Zero W, RPi Camera
+Canvas, Flask, Raspberry Pi Zero, Pi Camera
