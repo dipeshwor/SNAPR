@@ -1,5 +1,5 @@
 #SNAPR - Snap, Narrate, Auto Post and Reflect
-![SNAPR](/files/documentationSetup.png)
+![SNAPR](/files/documentationSetup.PNG)
 
 December 04, 2019 
 
