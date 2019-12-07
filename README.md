@@ -1,15 +1,11 @@
-
 ### Tufts Center for Engineering Education and Outreach
-
 
 ### Keywords
 
 STEM Literacies, Documentation, Canvas, Flask, Raspberry Pi Zero, Pi Camera, Python
 
-
 # SNAPR - Snap, Narrate, Auto Post and Reflect
-
-![SNAPR logo](images/SNAPR-details0.png)
+![SNAPR logo](images/SNAPR-details0.png )
 
 ### What is SNAPR? 
 
@@ -17,27 +13,12 @@ STEM Literacies, Documentation, Canvas, Flask, Raspberry Pi Zero, Pi Camera, Pyt
 
 
 ### How does SNAPR work?
+![How it works](images/SNAPR-details1.png)
+SNAPR is based on a Raspberry Pi Zero (RPi). Once you register the Pi to Tufts Wireless and obtain its IP address, you can access the web application from any browser. You can use the web application to see a live video feed of the camera and choose the delay between snapshots. 
 
-![SNAPR how it works](images/SNAPR-details1.PNG)
-
-
-SNAPR is based on a Raspberry Pi Zero. 
-
-Everything runs on a server 
-
-You just need an IP 
-
-Browser - no installation 
-
-Phone or laptop 
-
-Canvas LMS 
-
-Canvas API 
-
+We use Canvas Learning Management System at Tufts. As a Tufts student, you can create an access token that lets you upload the pictures from SNAPR to a course folder or a course page using the Canvas API. You can use the Canvas web application to edit the uploaded page from your computer or phone at your own convenience. 
 
 ### What materials do I need? How much will it cost?
-
 
 <table>
   <tr>
@@ -110,7 +91,6 @@ Canvas API
   </tr>
 </table>
 
-
 Note: Alternatively, you can buy the Raspberry Pi Zero kit from [VILROS](https://vilros.com/products/raspberry-pi-zero-w-complete-kit-black) for **34.99** to get most of the stuff in the above list in addition to other useful to run your Raspberry Pi. 
 
 You can design your own camera mount but we found these flexible camera stands useful. 
@@ -149,15 +129,25 @@ You can design your own camera mount but we found these flexible camera stands u
 </table>
 
 
-### Why should I care about documentation?
+### Why SNAPR?
 
-STEM literacies 
+SNAPR is a tool designed for a design-based research study based on the conjecture: 
 
-Documentation 
+In a making activity, e-portfolios provide observable opportunities for students to reflect on intermediate steps in their making, while also providing observable evidence for facilitators to assess students’ learning. 
+
+We plan to explore the following research questions: 
+
+1. What processes of making are evident in students’ e-portfolio? 
+2. How can SNAPR encourage student reflection on the processes of making? 
+3. How are students’ STEM literacies represented in the e-portfolio, and how does enacting those practices contribute to their evolving identity as an engineer or a maker?
+
+Similar to Canvas, there are various e-portfolio platforms  that students can use to showcase their work. Unfortunately, most of them are designed in such a way that the users usually update the content only after their work is complete. Likewise, most people find it cumbersome to document their work, as they are working on a project. We think, opportunities for reflection on the ‘in-between’ stages are missing in the existing design of e-portfolios. 
+
+In order to minimize this limitation, we designed SNAPR which lets the students automatically populate their e-portfolios while they are working on their projects. The setup constitutes a camera, connected to the WiFi, which periodically takes snapshots of the student work and uploads the snapshots to the students’ e-portfolios. Once populated, the students can access the uploaded snapshots to choose which ones to keep on their e-portfolio, perhaps to tell a story of failure, or to highlight an ‘Aha’ moment, or to share an insight they had about how their learning evolved. 
 
 
 ### Where do I go from here?
 
-OpenCV 
+You can modify SNAPR to suit your own documentation needs by editing the code on github. We are experimenting with **Jupyter Notebook** to create tutorials that will help you understand the code and allow you to make changes to the code according to your requirement. 
 
-Jupyter Notebook
+Additionally, you can use **OpenCV** to make SNAPR a smart camera system. For instance, you could use OpenCV’s face recognition capabilities to capture images and upload images of your work directly to a page on Canvas or create a camera that tracks an object of interest while you are working on your desk.  
