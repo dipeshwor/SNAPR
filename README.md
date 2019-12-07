@@ -128,7 +128,7 @@ You can design your own camera mount but we found these flexible camera stands u
   </tr>
 </table>
 
-
+![How it works](images/SNAPR-details2.jpg)
 ### Why SNAPR?
 
 SNAPR is a tool designed for a design-based research study based on the conjecture: 
