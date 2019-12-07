@@ -9,14 +9,7 @@ STEM Literacies, Documentation, Canvas, Flask, Raspberry Pi Zero, Pi Camera, Pyt
 
 # SNAPR - Snap, Narrate, Auto Post and Reflect
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/SNAPR-details0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/SNAPR-details0.png "image_tooltip")
-
-
+![SNAPR logo](images/SNAPR-details0.png)
 
 ### What is SNAPR? 
 
@@ -25,12 +18,7 @@ STEM Literacies, Documentation, Canvas, Flask, Raspberry Pi Zero, Pi Camera, Pyt
 
 ### How does SNAPR work?
 
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/SNAPR-details1.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/SNAPR-details1.png "image_tooltip")
+![SNAPR how it works](images/SNAPR-details1.png)
 
 
 SNAPR is based on a Raspberry Pi Zero. 
@@ -123,12 +111,9 @@ Canvas API
 </table>
 
 
-*Alternatively, you can buy the Raspberry Pi Zero kit from [VILROS](https://vilros.com/products/raspberry-pi-zero-w-complete-kit-black) for **34.99** to get most of the stuff in the above list in addition to other useful to run your Raspberry Pi. 
-
- 
+Note: Alternatively, you can buy the Raspberry Pi Zero kit from [VILROS](https://vilros.com/products/raspberry-pi-zero-w-complete-kit-black) for **34.99** to get most of the stuff in the above list in addition to other useful to run your Raspberry Pi. 
 
 You can design your own camera mount but we found these flexible camera stands useful. 
-
 
 <table>
   <tr>
@@ -162,7 +147,6 @@ You can design your own camera mount but we found these flexible camera stands u
    </td>
   </tr>
 </table>
-
 
 
 ### Why should I care about documentation?
