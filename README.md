@@ -18,7 +18,7 @@ STEM Literacies, Documentation, Canvas, Flask, Raspberry Pi Zero, Pi Camera, Pyt
 
 ### How does SNAPR work?
 
-![SNAPR how it works](images/SNAPR-details1.png)
+![SNAPR how it works](images/SNAPR-details1.PNG)
 
 
 SNAPR is based on a Raspberry Pi Zero. 
