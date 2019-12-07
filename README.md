@@ -13,7 +13,7 @@ STEM Literacies, Documentation, Canvas, Flask, Raspberry Pi Zero, Pi Camera, Pyt
 
 
 ### How does SNAPR work?
-![How it works](images/SNAPR-details1.png)
+![How it works](images/SNAPR-details1.PNG)
 SNAPR is based on a Raspberry Pi Zero (RPi). Once you register the Pi to Tufts Wireless and obtain its IP address, you can access the web application from any browser. You can use the web application to see a live video feed of the camera and choose the delay between snapshots. 
 
 We use Canvas Learning Management System at Tufts. As a Tufts student, you can create an access token that lets you upload the pictures from SNAPR to a course folder or a course page using the Canvas API. You can use the Canvas web application to edit the uploaded page from your computer or phone at your own convenience. 
