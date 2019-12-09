@@ -1,5 +1,5 @@
 # SNAPR - Snap, Narrate, Auto Post and Reflect
-# December 04, 2019 
+# December 19, 2019 
 # Tufts University 
 # Tufts Center for Engineering Education and Outreach
 
@@ -26,13 +26,10 @@ API_KEY = os.environ.get('API_D')
 authorization = ''
 
 # Set Canvas course number 
-#EN1
-#courseNumber='15608'
-#group number for EN1
-courseNumber='6639'
-#courses or groups
-#groups='/courses/'
-groups='/groups/'
+courseNumber='18705'
+#courses or groups depending on where you want to create the page
+groups='/courses/'
+#groups='/groups/'
 
 # Set up a session
 session = requests.Session()
@@ -41,7 +38,7 @@ session = requests.Session()
 message1 = 'Dipeshwor M. Shrestha'
 message2 = '1'
 message3 = 'dipeshwor-m-shrestha'
-message4 = filename
+
 # Folder where the code resides 
 rootFolder='/home/pi/Desktop/SNAPR/'
 filename=rootFolder+'files/documentationSetup.PNG'
@@ -291,7 +288,6 @@ def enter():
 	session.headers = authorization
 	message1=userDetails()
 	message3=getFolderName()
-	message4=filename
 
 	templateData = {
 		'msg1'  : message1,

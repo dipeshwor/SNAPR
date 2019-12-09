@@ -91,7 +91,7 @@ We use Canvas Learning Management System at Tufts. As a Tufts student, you can c
   </tr>
 </table>
 
-Note: Alternatively, you can buy the Raspberry Pi Zero kit from [VILROS](https://vilros.com/products/raspberry-pi-zero-w-complete-kit-black) for **34.99** to get most of the stuff in the above list in addition to other useful to run your Raspberry Pi. 
+Note: Alternatively, you can buy the Raspberry Pi Zero kit from [VILROS](https://vilros.com/products/raspberry-pi-zero-w-complete-kit-black) for **34.99** to get most of the stuff in the above list in addition to other useful stuff (like HDMI cable, USB adapter, etc.) to run your Raspberry Pi. 
 
 You can design your own camera mount but we found these flexible camera stands useful. 
 
