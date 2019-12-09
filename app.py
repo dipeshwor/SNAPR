@@ -38,6 +38,7 @@ session = requests.Session()
 message1 = 'Dipeshwor M. Shrestha'
 message2 = '1'
 message3 = 'dipeshwor-m-shrestha'
+message4 = ''
 
 # Folder where the code resides 
 rootFolder='/home/pi/Desktop/SNAPR/'
@@ -235,7 +236,7 @@ class Camera(object):
 #User can enter the time delay between each snapshots 
 @app.route('/start', methods = ['POST', 'GET'])
 def start():
-	global message1, message2, message3, message4, flag, delay, stopFlag
+	global message1, message2, message3, flag, delay, stopFlag
 	flag=1
 	stopFlag=0
 	if request.method == 'POST':
