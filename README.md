@@ -151,3 +151,5 @@ In order to minimize this limitation, we designed SNAPR which lets the students 
 You can modify SNAPR to suit your own documentation needs by editing the code on github. We are experimenting with **Jupyter Notebook** to create tutorials that will help you understand the code and allow you to make changes to the code according to your requirement. 
 
 Additionally, you can use **OpenCV** to make SNAPR a smart camera system. For instance, you could use OpenCV’s face recognition capabilities to capture images and upload images of your work directly to a page on Canvas or create a camera that tracks an object of interest while you are working on your desk.  
+
+![SNAPR poster](images/SNAPR-details3.jpg)
